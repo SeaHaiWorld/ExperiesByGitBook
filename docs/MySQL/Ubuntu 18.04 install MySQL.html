@@ -1,0 +1,664 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Ubuntu 18.04 install MySQL · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    
+    <link rel="prev" href="Navicat中csv文件导入MySQL.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Intro
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" >
+            
+                <span>
+            
+                    
+                    目录
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" >
+            
+                <span>
+            
+                    
+                    React
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1.1" data-path="../React/React-双向绑定.html">
+            
+                <a href="../React/React-双向绑定.html">
+            
+                    
+                    React-双向绑定
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.1.2" data-path="../React/React-请求数据并渲染数据.html">
+            
+                <a href="../React/React-请求数据并渲染数据.html">
+            
+                    
+                    React-请求数据并渲染数据
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.1.3" data-path="../React/React-进行父子组件传值.html">
+            
+                <a href="../React/React-进行父子组件传值.html">
+            
+                    
+                    React-进行父子组件传值
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" >
+            
+                <span>
+            
+                    
+                    MySQL
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.2.1" data-path="Navicat中csv文件导入MySQL.html">
+            
+                <a href="Navicat中csv文件导入MySQL.html">
+            
+                    
+                    Navicat 中 csv 文件导入 MySQL
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.2.2.2" data-path="Ubuntu 18.04 install MySQL.html">
+            
+                <a href="Ubuntu 18.04 install MySQL.html">
+            
+                    
+                    Ubuntu 18.04 install MySQL
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" >
+            
+                <span>
+            
+                    
+                    Thinkjs
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.3.1" data-path="../Thinkjs/Thinkjs-CRUD操作.html">
+            
+                <a href="../Thinkjs/Thinkjs-CRUD操作.html">
+            
+                    
+                    Thinkjs-CRUD操作
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.2" data-path="../Thinkjs/Thinkjs-数据库配置.html">
+            
+                <a href="../Thinkjs/Thinkjs-数据库配置.html">
+            
+                    
+                    Thinkjs-数据库配置
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.3" data-path="../Thinkjs/Thinkjs-解决跨域问题.html">
+            
+                <a href="../Thinkjs/Thinkjs-解决跨域问题.html">
+            
+                    
+                    Thinkjs-解决跨域问题
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" >
+            
+                <span>
+            
+                    
+                    Vim常用命令记录
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.4.1" data-path="../Vim常用命令记录/Vim-常用命令记录.html">
+            
+                <a href="../Vim常用命令记录/Vim-常用命令记录.html">
+            
+                    
+                    Vim-常用命令记录
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" >
+            
+                <span>
+            
+                    
+                    JavaScript
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.5.1" data-path="../关于JavaScript/遇到一个关于滚动条样式设置的问题.html">
+            
+                <a href="../关于JavaScript/遇到一个关于滚动条样式设置的问题.html">
+            
+                    
+                    遇到一个关于滚动条样式设置的问题
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" >
+            
+                <span>
+            
+                    
+                    JestReport
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.6.1" data-path="../JestReport/JestReport.html">
+            
+                <a href="../JestReport/JestReport.html">
+            
+                    
+                    JestReport
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Ubuntu 18.04 install MySQL</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h3 id="ubuntu-1804-&#x4E0B;&#x5B89;&#x88C5;mysql-server">Ubuntu 18.04 &#x4E0B;&#x5B89;&#x88C5;MySQL Server</h3>
+<ul>
+<li>MySQL&#x662F;&#x4E00;&#x4E2A;&#x514D;&#x8D39;&#x4E14;&#x5E7F;&#x6CDB;&#x4F7F;&#x7528;&#x7684;&#x5F00;&#x6E90;&#x5173;&#x7CFB;&#x6570;&#x636E;&#x5E93;&#x3002;&#x5982;&#x679C;&#x60A8;&#x77E5;&#x9053;&#x81EA;&#x5DF1;&#x9700;&#x8981;&#x6570;&#x636E;&#x5E93;&#x4F46;&#x5BF9;&#x6240;&#x6709;&#x53EF;&#x7528;&#x9009;&#x9879;&#x77E5;&#x4E4B;&#x751A;&#x5C11;&#xFF0C;&#x90A3;&#x4E48;&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x4E0D;&#x9519;&#x7684;&#x9009;&#x62E9;&#x3002;</li>
+</ul>
+<h4 id="&#x5B89;&#x88C5;mysql">&#x5B89;&#x88C5;MySQL</h4>
+<pre>
+    sudo apt-get update
+    sudo apt-get install mysql-server
+</pre>
+
+<h4 id="&#x542F;&#x52A8;mysql&#x670D;&#x52A1;">&#x542F;&#x52A8;MySQL&#x670D;&#x52A1;</h4>
+<ul>
+<li>&#x5B89;&#x88C5;&#x5B8C;&#x6210;&#x540E;&#xFF0C;&#x60A8;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;&#x8FD0;&#x884C;&#x4EE5;&#x4E0B;&#x547D;&#x4EE4;&#x6765;&#x542F;&#x52A8;&#x6570;&#x636E;&#x5E93;&#x670D;&#x52A1;&#x3002;&#x5982;&#x679C;&#x8BE5;&#x670D;&#x52A1;&#x5DF2;&#x542F;&#x52A8;&#xFF0C;&#x5219;&#x4F1A;&#x663E;&#x793A;&#x4E00;&#x6761;&#x6D88;&#x606F;&#xFF0C;&#x901A;&#x77E5;&#x60A8;&#x8BE5;&#x670D;&#x52A1;&#x5DF2;&#x5728;&#x8FD0;&#x884C;&#xFF1A;<pre>
+  systemctl start mysql
+</pre>
+
+</li>
+</ul>
+<h4 id="&#x91CD;&#x542F;&#x65F6;&#x542F;&#x52A8;">&#x91CD;&#x542F;&#x65F6;&#x542F;&#x52A8;</h4>
+<ul>
+<li>&#x8981;&#x786E;&#x4FDD;&#x5728;&#x91CD;&#x65B0;&#x5F15;&#x5BFC;&#x540E;&#x542F;&#x52A8;&#x6570;&#x636E;&#x5E93;&#x670D;&#x52A1;&#x5668;&#xFF0C;&#x8BF7;&#x8FD0;&#x884C;&#x4EE5;&#x4E0B;&#x547D;&#x4EE4;&#xFF1A;<pre>
+  systemctl enable mysql
+</pre>
+
+</li>
+</ul>
+<h4 id="&#x8DE8;&#x6743;&#x4F7F;&#x7528;mysql">&#x8DE8;&#x6743;&#x4F7F;&#x7528;mysql</h4>
+<pre>
+    sudo mysql(&#x7528;&#x4E8E;&#x5FD8;&#x8BB0;root&#x5BC6;&#x7801;&#x65F6;&#x914D;&#x7F6E;MySQL)
+</pre>
+
+<h4 id="&#x6DFB;&#x52A0;&#x6570;&#x636E;&#x5E93;&#x7528;&#x6237;">&#x6DFB;&#x52A0;&#x6570;&#x636E;&#x5E93;&#x7528;&#x6237;</h4>
+<p>&#x5F53;&#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x4F7F;&#x7528;root&#x7528;&#x6237;&#x8FDE;&#x63A5;&#x5230;&#x6570;&#x636E;&#x5E93;&#x65F6;&#xFF0C;&#x5B83;&#x4EEC;&#x901A;&#x5E38;&#x5177;&#x6709;&#x8D85;&#x51FA;&#x6240;&#x9700;&#x6743;&#x9650;&#x7684;&#x6743;&#x9650;&#x3002;&#x60A8;&#x53EF;&#x4EE5;&#x6DFB;&#x52A0;&#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x53EF;&#x7528;&#x4E8E;&#x8FDE;&#x63A5;&#x5230;&#x65B0;&#x6570;&#x636E;&#x5E93;&#x7684;&#x7528;&#x6237;&#x3002;</p>
+<ul>
+<li>&#x6DFB;&#x52A0;&#x65B0;&#x7684;&#x7528;&#x6237;:<pre>
+  &#x8FD9;&#x91CC;&#x4EE5;user&#xFF1A;yang,password:yang &#x4E3A;&#x4F8B;
+</pre></li>
+<li>&#x5141;&#x8BB8;&#x672C;&#x5730;IP&#x8BBF;&#x95EE;localhost&#x7684;MySQL&#x6570;&#x636E;&#x5E93;<pre>
+  use mysql;
+  select host,user from user;
+  +-----------+------------------+
+  | host      | user             |
+  +-----------+------------------+
+  | localhost | debian-sys-maint |
+  | localhost | mysql.session    |
+  | localhost | mysql.sys        |
+  | localhost | root             |
+  +-----------+------------------+
+  mysql&gt; create user &apos;yang&apos;@&apos;localhost&apos; identified by &apos;yang&apos;;
+  select host,user from user;
+  +-----------+------------------+
+  | host      | user             |
+  +-----------+------------------+
+  | localhost | debian-sys-maint |
+  | localhost | mysql.session    |
+  | localhost | mysql.sys        |
+  | localhost | root             |
+  | localhost | yang             |
+  +-----------+------------------+
+</pre></li>
+<li>&#x5141;&#x8BB8;&#x5916;&#x7F51;IP&#x8BBF;&#x95EE;&#x6570;&#x636E;&#x5E93;,&#x6240;&#x6709;&#x7684;IP&#x90FD;&#x53EF;&#x4EE5;&#x8BBF;&#x95EE;&#x8BE5;&#x6570;&#x636E;&#x5E93;<pre>
+  mysql&gt; create user &apos;yang&apos;@&apos;%&apos; identified by &apos;yang&apos;;
+</pre></li>
+<li>&#x521B;&#x5EFA;&#x5B8C;&#x6210;&#x540E;&#xFF0C;&#x5237;&#x65B0;<pre>
+  mysql&gt; flush privileges;
+</pre>
+
+</li>
+</ul>
+<h4 id="&#x7528;&#x6237;&#x6388;&#x6743;">&#x7528;&#x6237;&#x6388;&#x6743;</h4>
+<ul>
+<li>&#x66F4;&#x6539;&#x7528;&#x6237;&#x8D4B;&#x6743;&#xFF0C;&#x5E76;&#x5237;&#x65B0;&#x6388;&#x6743;<pre>
+  mysql&gt; GRANT ALL PRIVILEGES ON *.* TO &apos;yang&apos;@&apos;%&apos; IDENTIFIED BY &apos;yang&apos; WITH GRANT OPTION;
+  mysql&gt; flush privileges;
+</pre>
+
+</li>
+</ul>
+<h4 id="&#x5F00;&#x542F;&#x5916;&#x7F51;&#x8BBF;&#x95EE;&#x6743;&#x9650;">&#x5F00;&#x542F;&#x5916;&#x7F51;&#x8BBF;&#x95EE;&#x6743;&#x9650;</h4>
+<ul>
+<li>&#x5F00;&#x542F;MySQL&#x8FDC;&#x7A0B;&#x8BBF;&#x95EE;<pre>
+  sudo ufw allow mysql
+</pre></li>
+<li>&#x67E5;&#x770B;3306&#x7AEF;&#x53E3;&#x662F;&#x5426;&#x5BF9;&#x5916;&#x5F00;&#x653E;<pre>
+  netstat -an | grep 3306
+  tcp    0   0 127.0.0.1:3306      0.0.0.0:*         LISTEN
+</pre>
+&#x5982;&#x679C;&#x663E;&#x793A;&#x5982;&#x4E0A;&#xFF0C;&#x8BF4;&#x660E;mysql&#x7AEF;&#x53E3;&#x76EE;&#x524D;&#x53EA;&#x76D1;&#x542C;&#x672C;&#x5730;&#x8FDE;&#x63A5;127.0.0.1&#x3002;&#x7136;&#x540E;&#x9700;&#x8981;&#x4FEE;&#x6539;mysql&#x7684;&#x914D;&#x7F6E;&#x6587;&#x4EF6;
+<pre>
+  cd /etc/mysql/mysql.conf.d
+  sudo vim mysqld.cnf
+</pre>
+&#x627E;&#x5230;bind-address = 127.0.0.1&#x5C06;&#x5176;&#x6CE8;&#x91CA;&#x6389;
+<pre>
+  a &#x63D2;&#x5165;&#x6A21;&#x5F0F;&#xFF0C;&#x6CE8;&#x91CA;#
+  Esc 
+  &#xFF1A;wq&#x4FDD;&#x5B58;&#x9000;&#x51FA;
+</pre>
+<pre>
+  &#x91CD;&#x542F;mysql
+  service mysql restart
+</pre>
+
+</li>
+</ul>
+<h4 id="&#x6570;&#x636E;&#x5E93;&#x64CD;&#x4F5C;">&#x6570;&#x636E;&#x5E93;&#x64CD;&#x4F5C;</h4>
+<ul>
+<li><p>&#x6570;&#x636E;&#x5E93;&#x64CD;&#x4F5C;</p>
+<pre>
+  &#x521B;&#x5EFA;&#x6570;&#x636E;&#x5E93;
+  create database dbname charset=utf8;
+  &#x5220;&#x9664;&#x6570;&#x636E;&#x5E93;
+  drop database dbname;
+  &#x5207;&#x6362;&#x6570;&#x636E;&#x5E93;
+  use dbname;
+  &#x67E5;&#x770B;&#x5F53;&#x524D;&#x9009;&#x62E9;&#x7684;&#x6570;&#x636E;&#x5E93;
+  select database();
+
+  &#x6CE8;.&#x3000;&#x4EE5;&#x4E0A;dbname &#x4E3A;&#x6570;&#x636E;&#x5E93;&#x540D;&#x79F0;
+</pre></li>
+<li>&#x8868;&#x64CD;&#x4F5C;<pre>
+  &#x67E5;&#x770B;&#x5F53;&#x524D;&#x6570;&#x636E;&#x5E93;&#x6240;&#x6709;&#x8868;
+  show tables;
+  &#x521B;&#x5EFA;&#x8868;
+  create table tablename();
+  &#x4FEE;&#x6539;&#x8868;
+  alter table tablename add|change|drop &#x5217;&#x540D;&#x3000;&#x7C7B;&#x578B;&#xFF1B;
+  &#x5220;&#x9664;&#x8868;
+  drop table tablename;
+  &#x67E5;&#x770B;&#x8868;&#x7ED3;&#x6784;
+  desc tablename;
+  &#x67E5;&#x8BE2;
+  select * from tablename;
+  &#x589E;&#x52A0;
+  &#x5168;&#x5217;&#x63D2;&#x5165;: insert into tablename values(....);
+  &#x7F3A;&#x7701;&#x63D2;&#x5165;: insert into tablename(&#x5217;&#xFF11;....) values(&#x503C;1 .....);
+  &#x540C;&#x65F6;&#x63D2;&#x5165;&#x591A;&#x6761;&#x6570;&#x636E;&#x3000;insert into tablename values(....),(.....);
+  &#x6216;&#x3000;insert into tablename(&#x5217;&#xFF11;...) values(&#x503C;&#xFF11;...),(&#x503C;&#xFF11;....);
+  &#x4FEE;&#x6539;
+  update tablename set &#x5217;1=&#x503C;1 ,... where &#x6761;&#x4EF6;;
+  &#x5220;&#x9664;
+  delete from tablename where &#x6761;&#x4EF6;;
+</pre> </li>
+<li>&#x5BFC;&#x5165;sql&#x811A;&#x672C;&#x6587;&#x4EF6;
+<pre>
+  &#x8FDB;&#x5165;mysql shell
+  mysql -u root -p
+  Entry password:
+</pre>
+<pre>
+  &#x9996;&#x5148;&#x4F7F;&#x7528; xftp6 &#x4F20;&#x8F93;&#x4F60;&#x7684;dbname.sql&#x6587;&#x4EF6;&#x5230;&#x865A;&#x62DF;&#x673A;
+</pre>
+<img src="png/Xshell.png" alt="Xshell"></li>
+</ul>
+<p>mysql shell&#x4E0B;&#x6267;&#x884C;&#x4EE5;&#x4E0B;&#x547D;&#x4EE4;</p>
+<pre>
+    &#x521B;&#x5EFA;&#x6570;&#x636E;&#x5E93;
+    create database think charset=utf8;
+    &#x9009;&#x62E9;&#x6570;&#x636E;&#x5E93;
+    use think;
+    &#x5BFC;&#x5165;sql
+    source /path/path/think.sql;
+
+    &#x6CE8;&#xFF1A; &#x4EE5;&#x6570;&#x636E;&#x5E93;think,SQL&#x811A;&#x672C;think.sql&#x4E3A;&#x4F8B;
+</pre>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="Navicat中csv文件导入MySQL.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Navicat 中 csv 文件导入 MySQL">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Ubuntu 18.04 install MySQL","level":"1.2.2.2","depth":3,"next":{"title":"Thinkjs","level":"1.2.3","depth":2,"ref":"","articles":[{"title":"Thinkjs-CRUD操作","level":"1.2.3.1","depth":3,"path":"Thinkjs/Thinkjs-CRUD操作.md","ref":"Thinkjs/Thinkjs-CRUD操作.md","articles":[]},{"title":"Thinkjs-数据库配置","level":"1.2.3.2","depth":3,"path":"Thinkjs/Thinkjs-数据库配置.md","ref":"Thinkjs/Thinkjs-数据库配置.md","articles":[]},{"title":"Thinkjs-解决跨域问题","level":"1.2.3.3","depth":3,"path":"Thinkjs/Thinkjs-解决跨域问题.md","ref":"Thinkjs/Thinkjs-解决跨域问题.md","articles":[]}]},"previous":{"title":"Navicat 中 csv 文件导入 MySQL","level":"1.2.2.1","depth":3,"path":"MySQL/Navicat中csv文件导入MySQL.md","ref":"MySQL/Navicat中csv文件导入MySQL.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"MySQL/Ubuntu 18.04 install MySQL.md","mtime":"2019-09-13T09:12:13.472Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-14T12:02:50.334Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
