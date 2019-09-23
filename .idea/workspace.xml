@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4963f233-f285-4bb2-b249-f05754799fc8" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL/Ubuntu 18.04 install MySQL.MD" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/Ubuntu 18.04 install MySQL.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/React-双向绑定.MD" beforeDir="false" afterPath="$PROJECT_DIR$/React/React-双向绑定.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/React-请求数据并渲染数据.MD" beforeDir="false" afterPath="$PROJECT_DIR$/React/React-请求数据并渲染数据.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/Router.MD" beforeDir="false" afterPath="$PROJECT_DIR$/React/Router.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinkjs/Thinkjs-CRUD操作.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Thinkjs/Thinkjs-CRUD操作.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinkjs/Thinkjs-数据库配置.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Thinkjs/Thinkjs-数据库配置.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinkjs/Thinkjs-解决跨域问题.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Thinkjs/Thinkjs-解决跨域问题.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vim常用命令记录/Vim-常用命令记录.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Vim常用命令记录/Vim-常用命令记录.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/JestReport/JestReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/JestReport/JestReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/MySQL/Navicat中csv文件导入MySQL.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/MySQL/Navicat中csv文件导入MySQL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/MySQL/Ubuntu 18.04 install MySQL.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/MySQL/Ubuntu 18.04 install MySQL.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/MySQL/Ubuntu 18.04 install MySQL.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/MySQL/Ubuntu 18.04 install MySQL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/React/React-双向绑定.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/React/React-双向绑定.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/React/React-请求数据并渲染数据.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/React/React-请求数据并渲染数据.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/React/React-请求数据并渲染数据.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/React/React-请求数据并渲染数据.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/React/React-进行父子组件传值.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/React/React-进行父子组件传值.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/React/Router.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/React/Router.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-CRUD操作.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-CRUD操作.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-CRUD操作.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-CRUD操作.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-数据库配置.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-数据库配置.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-数据库配置.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-数据库配置.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-解决跨域问题.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-解决跨域问题.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-解决跨域问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Thinkjs/Thinkjs-解决跨域问题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Vim常用命令记录/Vim-常用命令记录.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Vim常用命令记录/Vim-常用命令记录.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Vim常用命令记录/Vim-常用命令记录.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Vim常用命令记录/Vim-常用命令记录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/关于Javascript/遇到一个关于滚动条样式设置的问题.MD" beforeDir="false" afterPath="$PROJECT_DIR$/_book/关于Javascript/遇到一个关于滚动条样式设置的问题.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/关于Javascript/遇到一个关于滚动条样式设置的问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/关于Javascript/遇到一个关于滚动条样式设置的问题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/JestReport/JestReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JestReport/JestReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/MySQL/Navicat中csv文件导入MySQL.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/MySQL/Navicat中csv文件导入MySQL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/MySQL/Ubuntu 18.04 install MySQL.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/MySQL/Ubuntu 18.04 install MySQL.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/MySQL/Ubuntu 18.04 install MySQL.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/MySQL/Ubuntu 18.04 install MySQL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/React/React-双向绑定.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/React/React-双向绑定.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/React/React-请求数据并渲染数据.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/React/React-请求数据并渲染数据.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/React/React-请求数据并渲染数据.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/React/React-请求数据并渲染数据.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/React/React-进行父子组件传值.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/React/React-进行父子组件传值.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/React/Router.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/React/Router.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-CRUD操作.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-CRUD操作.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-CRUD操作.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-CRUD操作.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-数据库配置.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-数据库配置.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-数据库配置.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-数据库配置.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-解决跨域问题.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-解决跨域问题.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-解决跨域问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Thinkjs/Thinkjs-解决跨域问题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Vim常用命令记录/Vim-常用命令记录.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Vim常用命令记录/Vim-常用命令记录.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Vim常用命令记录/Vim-常用命令记录.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Vim常用命令记录/Vim-常用命令记录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/关于Javascript/遇到一个关于滚动条样式设置的问题.MD" beforeDir="false" afterPath="$PROJECT_DIR$/docs/关于Javascript/遇到一个关于滚动条样式设置的问题.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/关于Javascript/遇到一个关于滚动条样式设置的问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/关于Javascript/遇到一个关于滚动条样式设置的问题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/关于Javascript/遇到一个关于滚动条样式设置的问题.MD" beforeDir="false" afterPath="$PROJECT_DIR$/关于Javascript/遇到一个关于滚动条样式设置的问题.MD" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QEC47uHGrTDE7yvbtlSwuNMAIz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79004\Desktop\README\await 来处理异步" />
+      <recent name="C:\Users\79004\Desktop\README" />
+      <recent name="C:\Users\79004\Desktop\README\关于Javascript" />
+      <recent name="C:\Users\79004\Desktop\README\MySQL" />
+      <recent name="C:\Users\79004\Desktop\README\React" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4963f233-f285-4bb2-b249-f05754799fc8" name="默认的" comment="" />
+      <created>1567326175430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567326175430</updated>
+      <workItem from="1567326177013" duration="3905000" />
+      <workItem from="1567414703045" duration="120000" />
+      <workItem from="1567504094017" duration="887000" />
+      <workItem from="1567929717051" duration="4490000" />
+      <workItem from="1567935160767" duration="171000" />
+      <workItem from="1568265231082" duration="9000" />
+      <workItem from="1568354955704" duration="1774000" />
+      <workItem from="1568359543256" duration="7593000" />
+      <workItem from="1568461820175" duration="165000" />
+      <workItem from="1568463389643" duration="1022000" />
+      <workItem from="1568465198883" duration="57000" />
+      <workItem from="1569141052352" duration="2734000" />
+      <workItem from="1569151937945" duration="1748000" />
+      <workItem from="1569225772992" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
